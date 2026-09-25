@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Gameplay Tags Enhanced",
+	"Description": "Provides utility functions for gameplay tags.",
+	"Category": "Engine",
+	"CreatedBy": "Krileon",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GameplayTagsEnhanced",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
